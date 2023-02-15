@@ -1,0 +1,114 @@
+/*////////////////////////////////////////////////////////////////////////
+Table of Contents:
+    1. Global Styles
+    2. Typografie
+    3. Areas
+        3.1 Header
+        3.2 Testimonial
+        3.3 Support
+        3.4 Faq
+        3.5 Footer
+////////////////////////////////////////////////////////////////////////*/
+/*/grijs #899CA0/*/
+/*/donkergroen #1C2B32/*/
+
+
+/*////////////////////////
+    1. Global Styles
+////////////////////////*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+body {
+    box-sizing: border-box;
+
+     }
+
+
+/*////////////////////////
+    2. Typography
+////////////////////////*/
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-top: -80px;
+    }
+
+h1  {
+    font-size: 70px;
+    font-weight: bold;
+    color: #1C2B32;
+    margin-bottom: -20px;
+
+    }
+
+p   {
+    font-weight: 10;
+    }
+.headerText {
+    font-size: 10px;
+}
+/*////////////////////////
+    3. Areas
+////////////////////////*/
+
+
+
+
+/*///////////// 3.1 Header /////////////*/
+header {
+    background-image: url("../assets/images/mountains.jpg");
+    background-size: 1000px;
+    background-position: top;
+    background-repeat: no-repeat;
+    padding: 150px;
+    }
+
+
+
+.checkText {
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    font-weight: 10;
+    color: black;
+    text-align: center;
+    margin-right: -2px;
+    border-radius: 20px 0px 0px 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #1C2B32;
+    padding: 10px;
+    background-color: transparent;
+
+    }
+
+.checkButton {
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    font-weight: 10;
+    color: white;
+    text-align: center;
+    background-color: #1C2B32;
+    margin-left: -3px;
+    border-radius: 0px 20px 20px 0px;
+    border-style: solid;
+    border-color: #1C2B32;
+    border-width: 2px;
+    padding: 10px;
+}
+
+/*///////////// 3.2 Testimonial /////////////*/
+h2 {
+
+
+}
+
+
+/*///////////// 3.3 Support /////////////*/
+
+
+
+/*///////////// 3.4 Faq /////////////*/
+
+
+
+/*///////////// 3.5 Footer /////////////*/
